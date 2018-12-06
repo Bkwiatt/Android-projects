@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Battle Quest</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open">Open navigation Drawer</string>
+    <string name="close_drawer_open">Close navigation Drawer</string>
+    <string name="fornite">Fornite</string>
+    <string name="pubg">PubG</string>
+    <string name="lol">League of Legends</string>
+    <string name="irl">IRL</string>
+    <string name="nav_header">Battle Quest v0.0.1</string>
+    <string name="add_tickets">Add Tickets</string>
+    <string name="add_ticket">Add 1 Ticket</string>
+    <string name="add_5tickets">Add 5 Tickets</string>
+    <string name="add_10tickets">Add 10 Tickets</string>
+    <string name="add_20tickets">Add 20 Tickets</string>
+    <string name="add_25tickets">Add 25 Tickets</string>
+    <string name="add_30tickets">Add 30 Tickets</string>
+    <string name="add_50tickets">Add 50 Tickets</string>
+    <string name="add_75tickets">Add 75 Tickets</string>
+    <string name="add_100tickets">Add 100 Tickets</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
